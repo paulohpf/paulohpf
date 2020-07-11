@@ -2,7 +2,7 @@
 
 My name is Paulo Henrique Palmeira Franco from Brazil (🇧🇷). I've working as Front-End Developer since 2016 and currently i'm Programmer Analyst at EAD Plataforma (Middle). I love learn new ECMAScript frameworks and new things out of programming bounds. In 2011, i've created Igreja Batista Betel de Bauru livestream events and still work and support him with my skills.
 
-In my free time i like to play video games and watch Twitch livestreams, series (📺), movies (🎥), listen music (🎵).
+In my free time i like to play video games and watch Twitch livestreams, series (📺), movies (🎥) and listen music (🎵).
 
 Would you like to find me?
 
