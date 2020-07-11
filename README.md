@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 😊
+
+My name is Paulo Henrique Palmeira Franco from Brazil(🇧🇷). I've working as Front-End Developer since 2016 and currently i'm Programmer Analyst at EAD Plataforma. I love learn new ECMAScript frameworks and new things out of programming bounds. In 2011, i've created Igreja Batista Betel de Bauru livestream events and still work and support him with my skills.
+
+In my free time i like to play video games and watch Twitch livestreams, series (📺), movies (🎥), listen music (🎵).
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohpfranco)](https://www.linkedin.com/in/paulohpfranco)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/paulohpfranco)](https://www.facebook.com/paulohpfranco)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulohpfranco)](https://twitter.com/paulohpfranco)
 
 <!--
 **paulohpf/paulohpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
